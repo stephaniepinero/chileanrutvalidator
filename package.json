@@ -1,6 +1,6 @@
 {
     "name": "chileanrutvalidator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Validate Chilean Rut",
     "license": "MIT",
     "repository": "spinero/rutvalidator",
@@ -16,7 +16,9 @@
     "scripts": {},
     "files": [
         "index.js",
-        "cli.js"
+        "cli.js",
+        "README.md",
+        "LICENSE"
     ],
     "keywords": [
         "cli",
