@@ -1,9 +1,9 @@
 {
     "name": "chileanrutvalidator",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Validate Chilean Rut",
     "license": "MIT",
-    "repository": "spinero/rutvalidator",
+    "repository": "stephaniepinero/chileanrutvalidator",
     "author": {
         "name": "Stephanie Piñero",
         "email": "stephanie.pinerog@gmail.com",
