@@ -1,0 +1,30 @@
+{
+    "name": "chileanrutvalidator",
+    "version": "1.0.0",
+    "description": "Validate Chilean Rut",
+    "license": "MIT",
+    "repository": "spinero/rutvalidator",
+    "author": {
+        "name": "Stephanie Piñero",
+        "email": "stephanie.pinerog@gmail.com",
+        "url": "github.com/stephaniepinero"
+    },
+    "bin": "cli.js",
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {},
+    "files": [
+        "index.js",
+        "cli.js"
+    ],
+    "keywords": [
+        "cli",
+        "bin",
+        "rut",
+        "validation",
+        "chilean"
+    ],
+    "dependencies": {},
+    "devDependencies": {}
+}
