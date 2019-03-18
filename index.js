@@ -12,7 +12,9 @@ exports.validarRut = (rut) => {
   //console.log(verif);
   let continuar = true; 
   let i;
-
+  if(!Number.rutSolo){
+    return false;
+  }
   if(rut.length > 9){
     //console.log("Rut muy largo, es invalido ");
     return false;
